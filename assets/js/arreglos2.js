@@ -32,3 +32,7 @@ let metroid = juegos.indexOf('Metroid');
 console.log({'MetroidIndex':metroid})
 
 
+/* gg hoy no tuve chance de chambiar no hubo luz */
+console.log({'MetroidIndex':metroid})
+console.log({'MetroidIndex':metroid})
+console.log({'MetroidIndex':metroid})
